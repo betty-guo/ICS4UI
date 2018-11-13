@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXFileReference section */
+		BC4E8813207FBE9C009E8721 /* BettyGSwiftTestB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BettyGSwiftTestB.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		BC4E880C207FBE88009E8721 = {
+			isa = PBXGroup;
+			children = (
+				BC4E8813207FBE9C009E8721 /* BettyGSwiftTestB.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		BC4E880D207FBE88009E8721 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0920;
+			};
+			buildConfigurationList = BC4E8810207FBE88009E8721 /* Build configuration list for PBXProject "BettyGSwiftTestB" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = BC4E880C207FBE88009E8721;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		BC4E8811207FBE88009E8721 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		BC4E8812207FBE88009E8721 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BC4E8810207FBE88009E8721 /* Build configuration list for PBXProject "BettyGSwiftTestB" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC4E8811207FBE88009E8721 /* Debug */,
+				BC4E8812207FBE88009E8721 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BC4E880D207FBE88009E8721 /* Project object */;
+}

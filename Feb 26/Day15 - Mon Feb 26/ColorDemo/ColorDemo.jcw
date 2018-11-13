@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>ColorDemo</label>
+	</settings>
+	<users>
+		<user>
+			<path>ColorDemo.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ColorDemo.jcp</path>
+		</project>
+	</projects>
+</workspace>

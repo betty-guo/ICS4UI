@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Roll</label>
+	</settings>
+	<users>
+		<user>
+			<path>Roll.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Roll.jcp</path>
+		</project>
+	</projects>
+</workspace>

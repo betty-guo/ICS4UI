@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>SemesterAvg</label>
+	</settings>
+	<users>
+		<user>
+			<path>SemesterAvg.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SemesterAvg.jcp</path>
+		</project>
+	</projects>
+</workspace>

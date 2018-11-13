@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>LatinPlantNames</label>
+	</settings>
+	<users>
+		<user>
+			<path>LatinPlantNames.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>LatinPlantNames.jcp</path>
+		</project>
+	</projects>
+</workspace>

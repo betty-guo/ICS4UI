@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>BreakAPlate</label>
+	</settings>
+	<users>
+		<user>
+			<path>BreakAPlate.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>BreakAPlate.jcp</path>
+		</project>
+	</projects>
+</workspace>

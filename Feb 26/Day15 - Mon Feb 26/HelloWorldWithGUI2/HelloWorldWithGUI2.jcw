@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>HelloWorldWithGUI2</label>
+	</settings>
+	<users>
+		<user>
+			<path>HelloWorldWithGUI2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>HelloWorldWithGUI2.jcp</path>
+		</project>
+	</projects>
+</workspace>

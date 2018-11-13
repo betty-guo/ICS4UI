@@ -1,0 +1,26 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>BreakAPlate</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>BreakAPlate</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>BreakAPlate.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>GameBooth.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
